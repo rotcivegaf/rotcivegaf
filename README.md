@@ -1,4 +1,4 @@
-## Solidity auditor ans developer
+## Solidity auditor and developer
 
 ### PoC of exploits:
 
