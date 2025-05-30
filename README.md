@@ -21,6 +21,6 @@
 ### Reports
 
 | Date       | Company  | Protocol   | Severity | Report |
-|------------|----------|------------|----------|--------|
-| 2022/12/06 | Immunefi | Thena      | Low      |  [:page_facing_up:](reports/2022-12-06-Thena.md)   |
+|------------|----------|------------|:--------:|:------:|
+| 2022/12/06 | Immunefi | Thena      | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
 
