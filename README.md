@@ -21,6 +21,8 @@
 ### Reports
 
 | Date       | Company  | Protocol   | Severity | Report |
-|------------|----------|------------|:--------:|:------:|
+|------------|----------|------------|----------|:------:|
+| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/2023-06-09-StackIt.md) |
 | 2022/12/06 | Immunefi | Thena      | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
+
 
