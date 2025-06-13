@@ -15,6 +15,8 @@
 | 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/2023-06-09-StackIt.md) |
 | 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
 
+--- WORK IN PROGRESS ---
+
 ### PoC of exploits:
 
 | Protocol   | Stolen(USD) | Stolen     | The attacker use              | PoC |
@@ -27,6 +29,6 @@
 |FIREToken   |~$20K USD|8.45 ETH|A flash loan-pair manipulation with the `_transfer`|[FireToken_exp](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/2fdff2671591c251ba9a514afbda6bc0aac03e32/src/test/2024-10/FireToken_exp.sol#L7-L16)|
 |AIZPTToken  |~$20K USD|34.88 BNB|Flash loans-wrong price calculation|[AIZPTToken_exp](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/014e23d0ebc9c8563e772d27672f05ed2063b36f/src/test/2024-10/AIZPTToken_exp.sol#L7C28-L12)|
  
-
+--- WORK IN PROGRESS ---
 
 
