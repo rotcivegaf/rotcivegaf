@@ -1,5 +1,20 @@
 ## Solidity auditor and developer
 
+## Audits reports
+
+### Profiles:
+- [Code4rena](https://code4rena.com/@rotcivegaf)
+- [Cantina](https://cantina.xyz/u/rotcivegaf)
+- [Hats Finance](https://app.hats.finance/profile/rotcivegaf)
+
+### Reports
+
+| Date       | Company  | Protocol   | Severity | Report |
+|------------|----------|------------|----------|:------:|
+| 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/2023-07-31-RequestNetwork.md) |
+| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/2023-06-09-StackIt.md) |
+| 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
+
 ### PoC of exploits:
 
 | Protocol   | Stolen(USD) | Stolen     | The attacker use              | PoC |
@@ -12,17 +27,6 @@
 |FIREToken   |~$20K USD|8.45 ETH|A flash loan-pair manipulation with the `_transfer`|[FireToken_exp](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/2fdff2671591c251ba9a514afbda6bc0aac03e32/src/test/2024-10/FireToken_exp.sol#L7-L16)|
 |AIZPTToken  |~$20K USD|34.88 BNB|Flash loans-wrong price calculation|[AIZPTToken_exp](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/014e23d0ebc9c8563e772d27672f05ed2063b36f/src/test/2024-10/AIZPTToken_exp.sol#L7C28-L12)|
  
-## Audits reports
 
-### Profiles:
-- [Hats Finance](https://app.hats.finance/profile/rotcivegaf)
-- TODO
-
-### Reports
-
-| Date       | Company  | Protocol   | Severity | Report |
-|------------|----------|------------|----------|:------:|
-| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/2023-06-09-StackIt.md) |
-| 2022/12/06 | Immunefi | Thena      | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
 
 

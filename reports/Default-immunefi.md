@@ -15,22 +15,21 @@ Severity: <SEVERITY>
 
 ## Bug Description
 
+### Brief/Intro
+
 <DESCRIPTION>
 
-## Impact
+### Vulnerability Details
+
+### Impact Details
 
 <IMPACT>
 
-## Risk Breakdown
-
-Difficulty to Exploit: <DIFF>
-Weakness: <WEAK>
-
-## Recommendation
+### Recommendation
 
 <RECOMMENDATION>
 
-## References
+### References
 
 - <REFERENCE>
 - <...>
