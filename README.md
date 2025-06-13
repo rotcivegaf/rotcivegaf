@@ -1,4 +1,4 @@
-## Solidity auditor and developer
+# Solidity auditor and developer
 
 ## Audits reports
 
@@ -17,7 +17,7 @@
 
 --- WORK IN PROGRESS ---
 
-### PoC of exploits:
+## PoC of exploits:
 
 | Protocol   | Stolen(USD) | Stolen     | The attacker use              | PoC |
 |------------|-------------|------------|-------------------------------|-----|
