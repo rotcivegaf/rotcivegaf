@@ -1,7 +1,7 @@
 # <TITTLE HERE>
 
-Protocol: [<PROTOCOL>](<LINK>)
-Severity: <SEVERITY>
+- Protocol: [<PROTOCOL>](<LINK>)
+- Severity: <SEVERITY>
 
 ## Target(s)
 
