@@ -39,4 +39,13 @@
  
 --- WORK IN PROGRESS ---
 
+# Developments and Hackathons
+
+## Hackathons
+
+| Date       | Hackathon | Project | Repository | Awards |
+|------------|-----------|---------|------------|--------|
+| 2025/08/09 | [CodeNYC](https://codenyc.devspot.app/en) | [MafiaCaster](https://devspot.app/en/projects/411) | [MafiaCaster](https://github.com/eugenioclrc/mafiacaster) | 
+2nd place on `Base Mini App + CDP` |
+
 
