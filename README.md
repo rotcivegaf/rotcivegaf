@@ -1,6 +1,6 @@
 # Solidity auditor and developer
 
-## Profiles:
+## Profiles
 - [Immunefi](https://immunefi.com/profile/rotcivegaf/)
 - [Cantina](https://cantina.xyz/u/rotcivegaf)
 - [Code4rena](https://code4rena.com/@rotcivegaf)
