@@ -3,11 +3,19 @@
 ## Audits reports
 
 ### Profiles:
-- [Code4rena](https://code4rena.com/@rotcivegaf)
+- [Immunefi](https://immunefi.com/profile/rotcivegaf/)
 - [Cantina](https://cantina.xyz/u/rotcivegaf)
+- [Code4rena](https://code4rena.com/@rotcivegaf)
 - [Hats Finance](https://app.hats.finance/profile/rotcivegaf)
 
-### Reports
+### Security Review Audits
+
+| Date From  | Date To | Company  | Repository | Report | 
+|------------|---------|----------|------------|:------:|
+
+--- WORK IN PROGRESS ---
+
+### Bug bounty program reports
 
 | Date       | Company  | Protocol   | Severity | Report |
 |------------|----------|------------|----------|:------:|
@@ -18,7 +26,7 @@
 
 --- WORK IN PROGRESS ---
 
-## PoC of exploits:
+## PoC of on-chain exploits:
 
 | Protocol   | Stolen(USD) | Stolen     | The attacker use              | PoC |
 |------------|-------------|------------|-------------------------------|-----|
