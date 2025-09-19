@@ -1,14 +1,12 @@
 # Solidity auditor and developer
 
-## Audits reports
-
-### Profiles:
+## Profiles:
 - [Immunefi](https://immunefi.com/profile/rotcivegaf/)
 - [Cantina](https://cantina.xyz/u/rotcivegaf)
 - [Code4rena](https://code4rena.com/@rotcivegaf)
 - [Hats Finance](https://app.hats.finance/profile/rotcivegaf)
 
-### Security Review Audits
+## Security Review Audits
 
 | Date From  | Date To | Company  | Repository | Report | 
 |------------|---------|----------|------------|:------:|
@@ -16,7 +14,7 @@
 
 --- WORK IN PROGRESS ---
 
-### Bug bounty program reports
+## Bug bounty program reports
 
 | Date       | Company  | Protocol   | Severity | Report |
 |------------|----------|------------|----------|:------:|
