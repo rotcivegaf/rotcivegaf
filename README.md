@@ -10,7 +10,7 @@
 
 | Date From  | Date To | Company  | Repository | Report | 
 |------------|---------|----------|------------|:------:|
-| 2025/07/29 | 2025/07/01 | [vaquita.fi](https://www.vaquita.fi/) | [vaquita-lisk](https://github.com/vaquita-fi/vaquita-lisk/tree/c4964af9157c9cca9cfb167ac1a4450e36edb29e) | [:page_facing_up:](reports/securityReview/2025-07-29-Vaquita.md) |
+| 2025/07/01 | 2025/07/29 | [vaquita.fi](https://www.vaquita.fi/) | [vaquita-lisk](https://github.com/vaquita-fi/vaquita-lisk/tree/c4964af9157c9cca9cfb167ac1a4450e36edb29e) | [:page_facing_up:](reports/securityReview/2025-07-29-Vaquita.md) |
 
 --- WORK IN PROGRESS ---
 
@@ -47,4 +47,5 @@
 |------------|-----------|---------|------------|--------|
 | 2025/08/09 | [CodeNYC](https://codenyc.devspot.app/en) | [MafiaCaster](https://devspot.app/en/projects/411) | [MafiaCaster](https://github.com/eugenioclrc/mafiacaster) | 2nd place on `Base Mini App + CDP` |
 
+--- WORK IN PROGRESS ---
 
