@@ -19,10 +19,10 @@
 
 | Date       | Company  | Protocol   | Severity | Report |
 |------------|----------|------------|----------|:------:|
-| 2024/01/04 | Immunefi | [TruFin](https://www.trufin.io/) | Medium | [:page_facing_up:](reports/2024-01-04-TruFin.md) |
-| 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/2023-07-31-RequestNetwork.md) |
-| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/2023-06-09-StackIt.md) |
-| 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/2022-12-06-Thena.md) |
+| 2024/01/04 | Immunefi | [TruFin](https://www.trufin.io/) | Medium | [:page_facing_up:](reports/bugBountyProgram/2024-01-04-TruFin.md) |
+| 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-07-31-RequestNetwork.md) |
+| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-06-09-StackIt.md) |
+| 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/bugBountyProgram/2022-12-06-Thena.md) |
 
 --- WORK IN PROGRESS ---
 
