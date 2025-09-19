@@ -12,6 +12,7 @@
 
 | Date From  | Date To | Company  | Repository | Report | 
 |------------|---------|----------|------------|:------:|
+| 2025/07/29 | 2025/07/01 | [vaquita.fi](https://www.vaquita.fi/) | [vaquita-lisk](https://github.com/vaquita-fi/vaquita-lisk/tree/c4964af9157c9cca9cfb167ac1a4450e36edb29e) | [:page_facing_up:](reports/securityReview/2025-07-29-Vaquita.md) |
 
 --- WORK IN PROGRESS ---
 
