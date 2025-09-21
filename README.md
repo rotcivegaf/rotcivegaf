@@ -16,12 +16,12 @@
 
 ## Bug bounty program reports
 
-| Date       | Company  | Protocol   | Severity | Report |
-|------------|----------|------------|----------|:------:|
-| 2024/01/04 | Immunefi | [TruFin](https://www.trufin.io/) | Medium | [:page_facing_up:](reports/bugBountyProgram/2024-01-04-TruFin.md) |
-| 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-07-31-RequestNetwork.md) |
-| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-06-09-StackIt.md) |
-| 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/bugBountyProgram/2022-12-06-Thena.md) |
+| Date       | Company  | Protocol   | Severity | Report | Tittle | 
+|------------|----------|------------|----------|:------:|--------|
+| 2024/01/04 | Immunefi | [TruFin](https://www.trufin.io/) | Medium | [:page_facing_up:](reports/bugBountyProgram/2024-01-04-TruFin.md) | DoS attack on the function `compoundRewards` |
+| 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-07-31-RequestNetwork.md) | `burn(uint256,uint256)` function should be have `onlyOwner` modifier |
+| 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-06-09-StackIt.md) | Transaction sandwich attack on `_swapTokenForEther` function |
+| 2022/12/06 | Immunefi | [Thena](https://thena.fi/) | Low      | [:page_facing_up:](reports/bugBountyProgram/2022-12-06-Thena.md) | An attacker can reduce to minimum the distribution rewards |
 
 --- WORK IN PROGRESS ---
 
