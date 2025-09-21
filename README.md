@@ -16,11 +16,13 @@
 
 ## Bug bounty program reports
 
+
 | Date       | Company  | Protocol   | Severity | Report | Tittle | 
 |------------|----------|------------|----------|:------:|--------|
 | 2024/01/04 | Immunefi | [TruFin](https://www.trufin.io/) | Medium | [:page_facing_up:](reports/bugBountyProgram/2024-01-04-TruFin.md) | DoS attack on the function `compoundRewards` |
 | 2023/08/02 | Immunefi | [Request Network](https://request.network/) | Medium | [:page_facing_up:](reports/bugBountyProgram/2023-08-02-RequestNetwork.md) | Always passing `0` as the value of the `_chainlinkMaxRateTimespan` parameter of `swapTransferWithReference` and use deprecated chainlink functions |
 | 2023/07/31 | Immunefi | [Request Network](https://request.network/) | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-07-31-RequestNetwork.md) | `burn(uint256,uint256)` function should be have `onlyOwner` modifier |
+| 2024/07/18 | Immunefi | [Xterio](https://www.xter.io/) | Critical | [:page_facing_up: DUP](reports/bugBountyProgram/2024-08-18-Xterio.md) | Reentrancy attack on `buyKeys` function |
 | 2023/06/09 | Immunefi | Stack It   | Critical | [:page_facing_up:](reports/bugBountyProgram/2023-06-09-StackIt.md) | Transaction sandwich attack on `_swapTokenForEther` function |
 | 2023/08/23 | Immunefi | [YoCash](https://yoca.sh/) | Critical | [:page_facing_up: DUP](reports/bugBountyProgram/2023-08-23-YoCash.md) | Stuck funds in contract **Bankroll** and all contracts inherited from contract **Common** |
 | 2023/02/02 | Immunefi | [Thena](https://thena.fi) | Low | [:page_facing_up: DUP](reports/bugBountyProgram/2023-02-02-Thena.md) | Can manipulate the mappings `rewardRate`, `periodFinish` and the function `left` |
