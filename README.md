@@ -10,7 +10,7 @@
 
 | Date From  | Date To | Company  | Repository | Report | 
 |------------|---------|----------|------------|:------:|
-| 2025/10/02 | 2025/1009 | [sequence](https://sequence.xyz/) | [0xsequence/contracts-library](https://github.com/0xsequence/contracts-library/) | [:page_facing_up:](reports/securityReview/2025-10-02-0xsequence-contracts-library) |
+| 2025/10/02 | 2025/1009 | [sequence](https://sequence.xyz/) | [0xsequence/contracts-library](https://github.com/0xsequence/contracts-library/) | [:page_facing_up:](reports/securityReview/2025-10-02-0xsequence-contracts-library.md) |
 | 2025/07/01 | 2025/07/29 | [vaquita.fi](https://www.vaquita.fi/) | [vaquita-lisk](https://github.com/vaquita-fi/vaquita-lisk/tree/c4964af9157c9cca9cfb167ac1a4450e36edb29e) | [:page_facing_up:](reports/securityReview/2025-07-29-Vaquita.md) |
 
 --- WORK IN PROGRESS ---
